@@ -62,7 +62,7 @@ For example:
 git switch -c add-alonzo-church
 ```
 
-## Make necessary changes and commit those changes
+## Make necessary changes and commit those changes.
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
