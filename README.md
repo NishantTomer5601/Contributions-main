@@ -1,5 +1,5 @@
 
-#### _Read this in [other languages](translations/Translations.md)._
+#### _Read this in [other languages](translations/Translations.md)....
 
 
 # First Contributions...
